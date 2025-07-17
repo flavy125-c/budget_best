@@ -65,6 +65,14 @@ flutter run -d chrome  # Or select any available device
 
 
 🧪 Testing Scenarios
+
+
+Manual testing of:
+- Form validation
+- Firestore write/read
+- Large amount alert
+- Auth state changes
+
 Register and log in with valid/invalid credentials
 
 Add expenses with valid data
@@ -99,12 +107,13 @@ Each document:
 
 
 📎 License
-This project is for educational use only.
+This project is for academic purposes under the University of Portsmouth's coursework requirements. Not for commercial distribution.
+
 
 👤 Author
-Student: [Your Full Name]
-University: University of Portsmouth
-Module: Software Engineering Theory and Practice
+**Flavian Simon** (UP2249816) 
+University of Portsmouth  
+Course: Software Engineering Theory and Practice 
 Year: 2025
 
 
